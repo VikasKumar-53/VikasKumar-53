@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me
-✔ 🎓 BTech Computer Science Student at Lovely Professional University  
-✔ 💻 Strong in Data Structures & Algorithms  
-✔ 📊 Passionate about Data Science & Machine Learning  
-✔ 🌱 Currently learning Django & Backend Development  
-✔ 📫 Email: vikaskumar63061@gmail.com  
+🎓 BTech Computer Science Student at Lovely Professional University  
+💻 Strong in Data Structures & Algorithms  
+📊 Passionate about Data Science & Machine Learning  
+🌱 Currently learning Django & Backend Development  
+📫 Email: vikaskumar63061@gmail.com  
 
 ---
 
@@ -29,45 +29,6 @@
 </p>
 
 Power BI • Tableau • Excel • SQL • Jupyter Notebook
-
----
-
-## 📂 Featured Projects
-
-🔹 **Covid Test Scheduler**  
-→ Qt GUI based patient scheduling system using OOP  
-
-🔹 **Online Hotel Booking System**  
-→ Real-time booking platform using HTML, CSS, JavaScript  
-
-🔹 **Electric Vehicle Data Analysis**  
-→ Analyzed 130k+ EV records using Python & visualization  
-
-🔹 **Job Portal Website**  
-→ Responsive job portal with filters and UI components  
-
----
-
-## 📜 Certifications
-🏅 Cloud Computing — NPTEL  
-🏅 Introduction to Hardware & OS — Coursera  
-🏅 Computer Networking — Coursera  
-🏅 Mastering C++ Programming  
-
----
-
-## 🏆 Achievements
-⭐ 155+ days coding streak on LeetCode  
-⭐ Participated in GenAI Conclave 2025  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VikasKumar-53&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasKumar-53&theme=tokyonight" />
-</p>
 
 ---
 
