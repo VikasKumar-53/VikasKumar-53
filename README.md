@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<h3 align="center">BTech CSE Student | Data Science Enthusiast | DSA Learner</h3>
+<h3 align="center">BTech CSE(IT) Student | Data Science Enthusiast | DSA Learner</h3>
 
 ---
 
