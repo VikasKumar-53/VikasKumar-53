@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
+<h1 align="center">Hi 👋, My name is Vikas Kumar</h1>
 <h3 align="center">BTech CSE(IT) Student | Data Science Enthusiast | DSA Learner</h3>
 
 ---
@@ -20,8 +20,7 @@
 </p>
 
 ### 📊 Data Science
-- NumPy • Pandas • Matplotlib • Seaborn  
-- Scikit-learn • TensorFlow  
+- NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • TensorFlow  
 
 ### ⚡ Tools & Technologies
 <p>
